@@ -1,0 +1,3 @@
+What is the result of the following calculation:
+4 + 2
+Answer: 
